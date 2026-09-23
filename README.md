@@ -8,6 +8,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/raunaktastic/leetcode-solutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/raunaktastic/leetcode-solutions/tree/master/0485-max-consecutive-ones) |
+| [0566-reshape-the-matrix](https://github.com/raunaktastic/leetcode-solutions/tree/master/0566-reshape-the-matrix) |
 | [0605-can-place-flowers](https://github.com/raunaktastic/leetcode-solutions/tree/master/0605-can-place-flowers) |
 | [1122-relative-sort-array](https://github.com/raunaktastic/leetcode-solutions/tree/master/1122-relative-sort-array) |
 | [1572-matrix-diagonal-sum](https://github.com/raunaktastic/leetcode-solutions/tree/master/1572-matrix-diagonal-sum) |
@@ -39,5 +40,10 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Matrix
 |  |
 | ------- |
+| [0566-reshape-the-matrix](https://github.com/raunaktastic/leetcode-solutions/tree/master/0566-reshape-the-matrix) |
 | [1572-matrix-diagonal-sum](https://github.com/raunaktastic/leetcode-solutions/tree/master/1572-matrix-diagonal-sum) |
+## Simulation
+|  |
+| ------- |
+| [0566-reshape-the-matrix](https://github.com/raunaktastic/leetcode-solutions/tree/master/0566-reshape-the-matrix) |
 <!---LeetCode Topics End-->
