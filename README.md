@@ -11,6 +11,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0566-reshape-the-matrix](https://github.com/raunaktastic/leetcode-solutions/tree/master/0566-reshape-the-matrix) |
 | [0605-can-place-flowers](https://github.com/raunaktastic/leetcode-solutions/tree/master/0605-can-place-flowers) |
 | [0766-toeplitz-matrix](https://github.com/raunaktastic/leetcode-solutions/tree/master/0766-toeplitz-matrix) |
+| [0832-flipping-an-image](https://github.com/raunaktastic/leetcode-solutions/tree/master/0832-flipping-an-image) |
 | [0867-transpose-matrix](https://github.com/raunaktastic/leetcode-solutions/tree/master/0867-transpose-matrix) |
 | [1122-relative-sort-array](https://github.com/raunaktastic/leetcode-solutions/tree/master/1122-relative-sort-array) |
 | [1380-lucky-numbers-in-a-matrix](https://github.com/raunaktastic/leetcode-solutions/tree/master/1380-lucky-numbers-in-a-matrix) |
@@ -45,6 +46,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0566-reshape-the-matrix](https://github.com/raunaktastic/leetcode-solutions/tree/master/0566-reshape-the-matrix) |
 | [0766-toeplitz-matrix](https://github.com/raunaktastic/leetcode-solutions/tree/master/0766-toeplitz-matrix) |
+| [0832-flipping-an-image](https://github.com/raunaktastic/leetcode-solutions/tree/master/0832-flipping-an-image) |
 | [0867-transpose-matrix](https://github.com/raunaktastic/leetcode-solutions/tree/master/0867-transpose-matrix) |
 | [1380-lucky-numbers-in-a-matrix](https://github.com/raunaktastic/leetcode-solutions/tree/master/1380-lucky-numbers-in-a-matrix) |
 | [1572-matrix-diagonal-sum](https://github.com/raunaktastic/leetcode-solutions/tree/master/1572-matrix-diagonal-sum) |
@@ -52,5 +54,14 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0566-reshape-the-matrix](https://github.com/raunaktastic/leetcode-solutions/tree/master/0566-reshape-the-matrix) |
+| [0832-flipping-an-image](https://github.com/raunaktastic/leetcode-solutions/tree/master/0832-flipping-an-image) |
 | [0867-transpose-matrix](https://github.com/raunaktastic/leetcode-solutions/tree/master/0867-transpose-matrix) |
+## Two Pointers
+|  |
+| ------- |
+| [0832-flipping-an-image](https://github.com/raunaktastic/leetcode-solutions/tree/master/0832-flipping-an-image) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0832-flipping-an-image](https://github.com/raunaktastic/leetcode-solutions/tree/master/0832-flipping-an-image) |
 <!---LeetCode Topics End-->
