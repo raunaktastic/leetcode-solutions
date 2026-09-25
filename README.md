@@ -29,6 +29,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/raunaktastic/leetcode-solutions/tree/master/0073-set-matrix-zeroes) |
+| [0205-isomorphic-strings](https://github.com/raunaktastic/leetcode-solutions/tree/master/0205-isomorphic-strings) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/raunaktastic/leetcode-solutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [1122-relative-sort-array](https://github.com/raunaktastic/leetcode-solutions/tree/master/1122-relative-sort-array) |
 ## Sorting
@@ -90,6 +91,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## String
 |  |
 | ------- |
+| [0205-isomorphic-strings](https://github.com/raunaktastic/leetcode-solutions/tree/master/0205-isomorphic-strings) |
 | [0344-reverse-string](https://github.com/raunaktastic/leetcode-solutions/tree/master/0344-reverse-string) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/raunaktastic/leetcode-solutions/tree/master/0557-reverse-words-in-a-string-iii) |
 <!---LeetCode Topics End-->
