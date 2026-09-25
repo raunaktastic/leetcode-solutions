@@ -71,6 +71,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Two Pointers
 |  |
 | ------- |
+| [0344-reverse-string](https://github.com/raunaktastic/leetcode-solutions/tree/master/0344-reverse-string) |
 | [0832-flipping-an-image](https://github.com/raunaktastic/leetcode-solutions/tree/master/0832-flipping-an-image) |
 ## Bit Manipulation
 |  |
@@ -85,4 +86,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/raunaktastic/leetcode-solutions/tree/master/0048-rotate-image) |
+## String
+|  |
+| ------- |
+| [0344-reverse-string](https://github.com/raunaktastic/leetcode-solutions/tree/master/0344-reverse-string) |
 <!---LeetCode Topics End-->
