@@ -97,6 +97,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0344-reverse-string](https://github.com/raunaktastic/leetcode-solutions/tree/master/0344-reverse-string) |
 | [0520-detect-capital](https://github.com/raunaktastic/leetcode-solutions/tree/master/0520-detect-capital) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/raunaktastic/leetcode-solutions/tree/master/0557-reverse-words-in-a-string-iii) |
+| [0824-goat-latin](https://github.com/raunaktastic/leetcode-solutions/tree/master/0824-goat-latin) |
 | [0859-buddy-strings](https://github.com/raunaktastic/leetcode-solutions/tree/master/0859-buddy-strings) |
 | [0925-long-pressed-name](https://github.com/raunaktastic/leetcode-solutions/tree/master/0925-long-pressed-name) |
 <!---LeetCode Topics End-->
