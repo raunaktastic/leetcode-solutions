@@ -22,6 +22,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1260-shift-2d-grid](https://github.com/raunaktastic/leetcode-solutions/tree/master/1260-shift-2d-grid) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/raunaktastic/leetcode-solutions/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1380-lucky-numbers-in-a-matrix](https://github.com/raunaktastic/leetcode-solutions/tree/master/1380-lucky-numbers-in-a-matrix) |
+| [1480-running-sum-of-1d-array](https://github.com/raunaktastic/leetcode-solutions/tree/main/1480-running-sum-of-1d-array/) | Easy |
 | [1572-matrix-diagonal-sum](https://github.com/raunaktastic/leetcode-solutions/tree/master/1572-matrix-diagonal-sum) |
 ## Greedy
 | Problem Name | Difficulty |
@@ -127,4 +128,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0022-generate-parentheses](https://github.com/raunaktastic/leetcode-solutions/tree/main/0022-generate-parentheses/) | Medium |
+## Prefix Sum
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1480-running-sum-of-1d-array](https://github.com/raunaktastic/leetcode-solutions/tree/main/1480-running-sum-of-1d-array/) | Easy |
 <!---LeetCode Topics End-->
