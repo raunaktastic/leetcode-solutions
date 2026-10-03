@@ -100,6 +100,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/raunaktastic/leetcode-solutions/tree/main/0020-valid-parentheses/) | Easy |
 | [0022-generate-parentheses](https://github.com/raunaktastic/leetcode-solutions/tree/main/0022-generate-parentheses/) | Medium |
+| [0032-longest-valid-parentheses](https://github.com/raunaktastic/leetcode-solutions/tree/main/0032-longest-valid-parentheses/) | Hard |
 | [0205-isomorphic-strings](https://github.com/raunaktastic/leetcode-solutions/tree/master/0205-isomorphic-strings) |
 | [0344-reverse-string](https://github.com/raunaktastic/leetcode-solutions/tree/master/0344-reverse-string) |
 | [0520-detect-capital](https://github.com/raunaktastic/leetcode-solutions/tree/master/0520-detect-capital) |
@@ -115,15 +116,18 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/raunaktastic/leetcode-solutions/tree/main/0020-valid-parentheses/) | Easy |
+| [0032-longest-valid-parentheses](https://github.com/raunaktastic/leetcode-solutions/tree/main/0032-longest-valid-parentheses/) | Hard |
 ## Bracket Sequences
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/raunaktastic/leetcode-solutions/tree/main/0020-valid-parentheses/) | Easy |
 | [0022-generate-parentheses](https://github.com/raunaktastic/leetcode-solutions/tree/main/0022-generate-parentheses/) | Medium |
+| [0032-longest-valid-parentheses](https://github.com/raunaktastic/leetcode-solutions/tree/main/0032-longest-valid-parentheses/) | Hard |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0022-generate-parentheses](https://github.com/raunaktastic/leetcode-solutions/tree/main/0022-generate-parentheses/) | Medium |
+| [0032-longest-valid-parentheses](https://github.com/raunaktastic/leetcode-solutions/tree/main/0032-longest-valid-parentheses/) | Hard |
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
