@@ -19,6 +19,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0766-toeplitz-matrix](https://github.com/raunaktastic/leetcode-solutions/tree/master/0766-toeplitz-matrix) |
 | [0832-flipping-an-image](https://github.com/raunaktastic/leetcode-solutions/tree/master/0832-flipping-an-image) |
 | [0867-transpose-matrix](https://github.com/raunaktastic/leetcode-solutions/tree/master/0867-transpose-matrix) |
+| [0977-squares-of-a-sorted-array](https://github.com/raunaktastic/leetcode-solutions/tree/master/0977-squares-of-a-sorted-array) |
 | [1122-relative-sort-array](https://github.com/raunaktastic/leetcode-solutions/tree/master/1122-relative-sort-array) |
 | [1260-shift-2d-grid](https://github.com/raunaktastic/leetcode-solutions/tree/master/1260-shift-2d-grid) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/raunaktastic/leetcode-solutions/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
@@ -43,6 +44,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Sorting
 |  |
 | ------- |
+| [0977-squares-of-a-sorted-array](https://github.com/raunaktastic/leetcode-solutions/tree/master/0977-squares-of-a-sorted-array) |
 | [1122-relative-sort-array](https://github.com/raunaktastic/leetcode-solutions/tree/master/1122-relative-sort-array) |
 ## Counting Sort
 |  |
@@ -86,6 +88,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0557-reverse-words-in-a-string-iii](https://github.com/raunaktastic/leetcode-solutions/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0832-flipping-an-image](https://github.com/raunaktastic/leetcode-solutions/tree/master/0832-flipping-an-image) |
 | [0925-long-pressed-name](https://github.com/raunaktastic/leetcode-solutions/tree/master/0925-long-pressed-name) |
+| [0977-squares-of-a-sorted-array](https://github.com/raunaktastic/leetcode-solutions/tree/master/0977-squares-of-a-sorted-array) |
 ## Bit Manipulation
 |  |
 | ------- |
