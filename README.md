@@ -35,6 +35,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0605-can-place-flowers](https://github.com/raunaktastic/leetcode-solutions/tree/master/0605-can-place-flowers) |
 | [0678-valid-parenthesis-string](https://github.com/raunaktastic/leetcode-solutions/tree/main/0678-valid-parenthesis-string/) | Medium |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/raunaktastic/leetcode-solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 ## Hash Table
 |  |
 | ------- |
@@ -122,6 +123,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0824-goat-latin](https://github.com/raunaktastic/leetcode-solutions/tree/master/0824-goat-latin) |
 | [0856-score-of-parentheses](https://github.com/raunaktastic/leetcode-solutions/tree/main/0856-score-of-parentheses/) | Medium |
 | [0859-buddy-strings](https://github.com/raunaktastic/leetcode-solutions/tree/master/0859-buddy-strings) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/raunaktastic/leetcode-solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [0925-long-pressed-name](https://github.com/raunaktastic/leetcode-solutions/tree/master/0925-long-pressed-name) |
 ## Divide and Conquer
 |  |
@@ -134,6 +136,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0032-longest-valid-parentheses](https://github.com/raunaktastic/leetcode-solutions/tree/main/0032-longest-valid-parentheses/) | Hard |
 | [0678-valid-parenthesis-string](https://github.com/raunaktastic/leetcode-solutions/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [0856-score-of-parentheses](https://github.com/raunaktastic/leetcode-solutions/tree/main/0856-score-of-parentheses/) | Medium |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/raunaktastic/leetcode-solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 ## Bracket Sequences
 |  |
 | ------- |
@@ -142,6 +145,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0032-longest-valid-parentheses](https://github.com/raunaktastic/leetcode-solutions/tree/main/0032-longest-valid-parentheses/) | Hard |
 | [0678-valid-parenthesis-string](https://github.com/raunaktastic/leetcode-solutions/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [0856-score-of-parentheses](https://github.com/raunaktastic/leetcode-solutions/tree/main/0856-score-of-parentheses/) | Medium |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/raunaktastic/leetcode-solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 ## Dynamic Programming
 |  |
 | ------- |
