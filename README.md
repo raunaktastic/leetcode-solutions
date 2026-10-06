@@ -23,6 +23,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0977-squares-of-a-sorted-array](https://github.com/raunaktastic/leetcode-solutions/tree/master/0977-squares-of-a-sorted-array) |
 | [1122-relative-sort-array](https://github.com/raunaktastic/leetcode-solutions/tree/master/1122-relative-sort-array) |
 | [1260-shift-2d-grid](https://github.com/raunaktastic/leetcode-solutions/tree/master/1260-shift-2d-grid) |
+| [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/raunaktastic/leetcode-solutions/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/raunaktastic/leetcode-solutions/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1380-lucky-numbers-in-a-matrix](https://github.com/raunaktastic/leetcode-solutions/tree/master/1380-lucky-numbers-in-a-matrix) |
 | [1480-running-sum-of-1d-array](https://github.com/raunaktastic/leetcode-solutions/tree/main/1480-running-sum-of-1d-array/) | Easy |
