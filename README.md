@@ -117,6 +117,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0022-generate-parentheses](https://github.com/raunaktastic/leetcode-solutions/tree/main/0022-generate-parentheses/) | Medium |
 | [0032-longest-valid-parentheses](https://github.com/raunaktastic/leetcode-solutions/tree/main/0032-longest-valid-parentheses/) | Hard |
 | [0205-isomorphic-strings](https://github.com/raunaktastic/leetcode-solutions/tree/master/0205-isomorphic-strings) |
+| [0301-remove-invalid-parentheses](https://github.com/raunaktastic/leetcode-solutions/tree/main/0301-remove-invalid-parentheses/) | Hard |
 | [0344-reverse-string](https://github.com/raunaktastic/leetcode-solutions/tree/master/0344-reverse-string) |
 | [0520-detect-capital](https://github.com/raunaktastic/leetcode-solutions/tree/master/0520-detect-capital) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/raunaktastic/leetcode-solutions/tree/master/0557-reverse-words-in-a-string-iii) |
@@ -161,8 +162,13 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0022-generate-parentheses](https://github.com/raunaktastic/leetcode-solutions/tree/main/0022-generate-parentheses/) | Medium |
+| [0301-remove-invalid-parentheses](https://github.com/raunaktastic/leetcode-solutions/tree/main/0301-remove-invalid-parentheses/) | Hard |
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1480-running-sum-of-1d-array](https://github.com/raunaktastic/leetcode-solutions/tree/main/1480-running-sum-of-1d-array/) | Easy |
+## Breadth-First Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0301-remove-invalid-parentheses](https://github.com/raunaktastic/leetcode-solutions/tree/main/0301-remove-invalid-parentheses/) | Hard |
 <!---LeetCode Topics End-->
