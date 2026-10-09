@@ -95,6 +95,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0917-reverse-only-letters](https://github.com/raunaktastic/leetcode-solutions/tree/master/0917-reverse-only-letters) |
 | [0925-long-pressed-name](https://github.com/raunaktastic/leetcode-solutions/tree/master/0925-long-pressed-name) |
 | [0977-squares-of-a-sorted-array](https://github.com/raunaktastic/leetcode-solutions/tree/master/0977-squares-of-a-sorted-array) |
+| [1768-merge-strings-alternately](https://github.com/raunaktastic/leetcode-solutions/tree/main/1768-merge-strings-alternately/) | Easy |
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -129,6 +130,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/raunaktastic/leetcode-solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [0925-long-pressed-name](https://github.com/raunaktastic/leetcode-solutions/tree/master/0925-long-pressed-name) |
 | [1021-remove-outermost-parentheses](https://github.com/raunaktastic/leetcode-solutions/tree/main/1021-remove-outermost-parentheses/) | Easy |
+| [1768-merge-strings-alternately](https://github.com/raunaktastic/leetcode-solutions/tree/main/1768-merge-strings-alternately/) | Easy |
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
