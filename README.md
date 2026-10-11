@@ -112,6 +112,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0048-rotate-image](https://github.com/raunaktastic/leetcode-solutions/tree/master/0048-rotate-image) |
+| [1071-greatest-common-divisor-of-strings](https://github.com/raunaktastic/leetcode-solutions/tree/main/1071-greatest-common-divisor-of-strings/) | Easy |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/raunaktastic/leetcode-solutions/tree/master/1295-find-numbers-with-even-number-of-digits) |
 ## String
 | Problem Name | Difficulty |
@@ -132,6 +133,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/raunaktastic/leetcode-solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [0925-long-pressed-name](https://github.com/raunaktastic/leetcode-solutions/tree/master/0925-long-pressed-name) |
 | [1021-remove-outermost-parentheses](https://github.com/raunaktastic/leetcode-solutions/tree/main/1021-remove-outermost-parentheses/) | Easy |
+| [1071-greatest-common-divisor-of-strings](https://github.com/raunaktastic/leetcode-solutions/tree/main/1071-greatest-common-divisor-of-strings/) | Easy |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/raunaktastic/leetcode-solutions/tree/main/1541-minimum-insertions-to-balance-a-parentheses-string/) | Medium |
 | [1768-merge-strings-alternately](https://github.com/raunaktastic/leetcode-solutions/tree/main/1768-merge-strings-alternately/) | Easy |
 ## Divide and Conquer
@@ -182,4 +184,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2778-sum-of-squares-of-special-elements](https://github.com/raunaktastic/leetcode-solutions/tree/main/2778-sum-of-squares-of-special-elements/) | Easy |
+## Euclidean Algorithm
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1071-greatest-common-divisor-of-strings](https://github.com/raunaktastic/leetcode-solutions/tree/main/1071-greatest-common-divisor-of-strings/) | Easy |
+## Greatest Common Divisor
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1071-greatest-common-divisor-of-strings](https://github.com/raunaktastic/leetcode-solutions/tree/main/1071-greatest-common-divisor-of-strings/) | Easy |
 <!---LeetCode Topics End-->
